@@ -1,0 +1,17 @@
+file_read
+property it make the def under it act as it is one with the code referance no
+need for () in example showing called attributes.
+setter it is for update instead of going back you can just make a new line to update.
+text part is use with open to open the file location +'r' and r stand for read, for as text it is for a file new name or refernce.
+we used yield to read line by line instead adding the whole text in the memory, for strip() it is use to get read for and \n like whitespace.
+for @staticmethod it a code that can function outsied the class so it does not have self but we put it in class becouse it make more sense.
+ for @classmethod it work withe the class so i use it to add new line in the file and when you use the referance code don't ad () and becouse of yield
+ had to make for in range .text()
+
+for str idk it just like print.
+f' for {}
+
+so in color  when we use it for add we did not need for in becaouse the join did the job.
+
+more than 2 because it is @staticmethod so we need to add the file name from outside
+
